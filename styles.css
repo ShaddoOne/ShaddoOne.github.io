@@ -1,0 +1,10 @@
+div>.title {
+	padding: 50px;
+	justify-self: center;
+	justify-content: center;
+}
+.title {
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: larger;
+	text-align: center;
+}
